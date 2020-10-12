@@ -6,7 +6,7 @@ Step 2: Go to test.properties file to change the Value against the Key 'CityName
 Properties Files:
 relative Location: WeatherComparator\WeatherComparator\bin\Debug\WeatherComparator\Utilities
 
-
+test.properties file now has key 'Method' where the user can change the Request Method as input.
 
 
 
