@@ -1,0 +1,572 @@
+GetWeatherMap
+---------------------------------------------
+3:42:31 AM Thursday, October 8, 2020 : 
+[3:42:31 AM]  :--- API Testing started ----
+[3:42:31 AM]  :Client Passed
+[3:42:31 AM]  :Request Created
+[3:42:31 AM]  :Parameters passed!
+[3:42:33 AM]  :Response validation: Temperature in Kelvin: 295.04
+[3:42:33 AM]  :Response validation: City is: Pune
+[3:42:33 AM]  :Response Recorded
+GetWeatherMap
+---------------------------------------------
+4:02:28 AM Thursday, October 8, 2020 : 
+[4:02:28 AM]  :--- API Testing started ----
+[4:02:28 AM]  :Client Passed
+[4:02:28 AM]  :Request Created
+[4:02:28 AM]  :Parameters passed!
+[4:02:29 AM]  :Response validation: Temperature in Kelvin: 295.32
+[4:02:29 AM]  :Response validation: City is: Pune
+[4:02:29 AM]  :Response Recorded
+GetWeatherMap
+---------------------------------------------
+4:30:19 AM Thursday, October 8, 2020 : 
+[4:30:19 AM]  :--- API Testing started ----
+[4:30:20 AM]  :Client Passed
+[4:30:20 AM]  :Request Created
+[4:30:20 AM]  :Parameters passed!
+[4:30:20 AM]  :Response validation: Temperature in Kelvin: 295.32
+[4:30:20 AM]  :Response validation: City is: Pune
+[4:30:20 AM]  :Response Recorded
+GetWeatherMap
+---------------------------------------------
+5:03:15 AM Thursday, October 8, 2020 : 
+[5:03:15 AM]  :--- API Testing started ----
+[5:03:15 AM]  :Client Passed
+[5:03:15 AM]  :Request Created
+[5:03:15 AM]  :Parameters passed!
+[5:03:16 AM]  :Response validation: Temperature in Kelvin: 295.32
+[5:03:16 AM]  :Response validation: City is: Pune
+[5:03:16 AM]  :Response Recorded
+GetWeatherMap
+---------------------------------------------
+3:21:49 PM Thursday, October 8, 2020 : 
+[3:21:49 PM]  :--- API Testing started ----
+[3:21:49 PM]  :Client Passed
+[3:21:49 PM]  :Request Created
+[3:21:49 PM]  :Parameters passed!
+[3:22:06 PM]  :Response validation: Temperature in Kelvin: 303.32
+[3:22:07 PM]  :Response validation: City is: Pune
+GetWeatherMap
+---------------------------------------------
+3:28:00 PM Thursday, October 8, 2020 : 
+[3:28:00 PM]  :--- API Testing started ----
+[3:28:00 PM]  :Client Passed
+[3:28:00 PM]  :Request Created
+[3:28:00 PM]  :Parameters passed!
+[3:28:01 PM]  :Response validation: Temperature in Kelvin: 303.32
+[3:28:01 PM]  :Response validation: City is: Pune
+[3:28:01 PM]  :Response Recorded: temp in kelvin is: 30.14999
+GetWeatherMap
+---------------------------------------------
+3:28:28 PM Thursday, October 8, 2020 : 
+[3:28:28 PM]  :--- API Testing started ----
+[3:28:28 PM]  :Client Passed
+[3:28:28 PM]  :Request Created
+[3:28:28 PM]  :Parameters passed!
+[3:28:35 PM]  :Response validation: Temperature in Kelvin: 303.32
+[3:28:48 PM]  :Response validation: City is: Pune
+[3:28:51 PM]  :Response Recorded: temp in kelvin is: 30.14999
+GetWeatherMap
+---------------------------------------------
+3:47:05 PM Thursday, October 8, 2020 : 
+[3:47:05 PM]  :--- API Testing started ----
+[3:47:05 PM]  :Client Passed
+[3:47:05 PM]  :Request Created
+[3:47:05 PM]  :Parameters passed!
+[3:47:06 PM]  :Test Case failed because:Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+GetWeatherMap
+---------------------------------------------
+3:48:15 PM Thursday, October 8, 2020 : 
+[3:48:15 PM]  :--- API Testing started ----
+[3:48:15 PM]  :Client Passed
+[3:48:15 PM]  :Request Created
+[3:48:15 PM]  :Parameters passed!
+GetWeatherMap
+---------------------------------------------
+3:48:53 PM Thursday, October 8, 2020 : 
+[3:48:53 PM]  :--- API Testing started ----
+[3:48:54 PM]  :Client Passed
+[3:48:54 PM]  :Request Created
+[3:48:54 PM]  :Parameters passed!
+GetWeatherMap
+---------------------------------------------
+3:50:00 PM Thursday, October 8, 2020 : 
+[3:50:00 PM]  :--- API Testing started ----
+[3:50:00 PM]  :Client Passed
+[3:50:00 PM]  :Request Created
+[3:50:00 PM]  :Parameters passed!
+[3:51:12 PM]  :Test Case failed because:Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+GetWeatherMap
+---------------------------------------------
+3:52:50 PM Thursday, October 8, 2020 : 
+[3:52:50 PM]  :--- API Testing started ----
+[3:52:50 PM]  :Client Passed
+[3:52:50 PM]  :Request Created
+[3:52:50 PM]  :Parameters passed!
+GetWeatherMap
+---------------------------------------------
+3:54:39 PM Thursday, October 8, 2020 : 
+[3:54:39 PM]  :--- API Testing started ----
+[3:54:39 PM]  :Client Passed
+[3:54:39 PM]  :Request Created
+[3:54:39 PM]  :Parameters passed!
+GetWeatherMap
+---------------------------------------------
+3:55:30 PM Thursday, October 8, 2020 : 
+[3:55:30 PM]  :--- API Testing started ----
+[3:55:30 PM]  :Client Passed
+[3:55:30 PM]  :Request Created
+[3:55:30 PM]  :Parameters passed!
+[3:55:30 PM]  :Response validation: Temperature in Kelvin: 303.32
+[3:55:30 PM]  :Response validation: City is: Pune
+[3:55:30 PM]  :Response Recorded: temp in degrees celcius is: 303.3
+GetWeatherMap
+---------------------------------------------
+3:56:28 PM Thursday, October 8, 2020 : 
+[3:56:28 PM]  :--- API Testing started ----
+GetWeatherMap
+---------------------------------------------
+3:57:29 PM Thursday, October 8, 2020 : 
+[3:57:29 PM]  :--- API Testing started ----
+[3:57:29 PM]  :Client Passed
+[3:57:29 PM]  :Request Created
+[3:57:29 PM]  :Parameters passed!
+[3:57:38 PM]  :Response validation: Temperature in Kelvin: 303.32
+[3:57:45 PM]  :Response validation: City is: Pune
+[3:57:51 PM]  :Response Recorded: temp in degrees celcius is: 303.3
+GetWeatherMap
+---------------------------------------------
+4:00:02 PM Thursday, October 8, 2020 : 
+[4:00:02 PM]  :--- API Testing started ----
+[4:00:03 PM]  :Client Passed
+[4:00:03 PM]  :Request Created
+[4:00:03 PM]  :Parameters passed!
+[4:00:04 PM]  :Response validation: Temperature in Kelvin: 303.32
+[4:00:04 PM]  :Response validation: City is: Pune
+[4:00:04 PM]  :Response Recorded: temp in degrees celcius is: 30.14999
+GetWeatherMap
+---------------------------------------------
+4:55:14 PM Thursday, October 8, 2020 : 
+[4:55:14 PM]  :--- API Testing started ----
+[4:55:14 PM]  :Client Passed
+[4:55:14 PM]  :Request Created
+[4:55:14 PM]  :Parameters passed!
+[4:55:16 PM]  :Response validation: Temperature in Kelvin: 302.84
+[4:55:16 PM]  :Response validation: City is: Pune
+[4:55:16 PM]  :Response Recorded: temp in degrees celcius is: 29.64999
+GetWeatherMap
+---------------------------------------------
+5:34:38 PM Thursday, October 8, 2020 : 
+[5:34:38 PM]  :--- API Testing started ----
+[5:34:38 PM]  :Client Passed
+[5:34:49 PM]  :Request Created
+[5:34:49 PM]  :Parameters passed!
+[5:34:51 PM]  :Response validation: Temperature in Kelvin: 300.69
+[5:34:51 PM]  :Response validation: City is: Pune
+[5:34:51 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+GetWeatherMap
+---------------------------------------------
+5:37:52 PM Thursday, October 8, 2020 : 
+[5:37:52 PM]  :--- API Testing started ----
+[5:37:52 PM]  :Client Passed
+[5:37:52 PM]  :Request Created
+[5:37:52 PM]  :Parameters passed!
+[5:37:54 PM]  :Response validation: Temperature in Kelvin: 300.69
+[5:37:54 PM]  :Response validation: City is: Pune
+[5:37:54 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+[5:37:55 PM]  :Test Case failed because:The method or operation is not implemented.
+GetWeatherMap
+---------------------------------------------
+5:38:57 PM Thursday, October 8, 2020 : 
+[5:38:57 PM]  :--- API Testing started ----
+[5:38:57 PM]  :Client Passed
+[5:38:57 PM]  :Request Created
+[5:38:57 PM]  :Parameters passed!
+[5:39:01 PM]  :Response validation: Temperature in Kelvin: 300.69
+[5:39:01 PM]  :Response validation: City is: Pune
+[5:39:01 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+GetWeatherMap
+---------------------------------------------
+5:41:24 PM Thursday, October 8, 2020 : 
+[5:41:24 PM]  :--- API Testing started ----
+[5:41:24 PM]  :Client Passed
+[5:41:24 PM]  :Request Created
+[5:41:24 PM]  :Parameters passed!
+[5:41:25 PM]  :Response validation: Temperature in Kelvin: 300.69
+[5:41:25 PM]  :Response validation: City is: Pune
+[5:41:25 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+GetWeatherMap
+---------------------------------------------
+5:46:02 PM Thursday, October 8, 2020 : 
+[5:46:02 PM]  :--- API Testing started ----
+[5:46:02 PM]  :Client Passed
+[5:46:02 PM]  :Request Created
+[5:46:02 PM]  :Parameters passed!
+[5:46:03 PM]  :Response validation: Temperature in Kelvin: 300.69
+[5:46:03 PM]  :Response validation: City is: Pune
+[5:46:03 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+GetWeatherMap
+---------------------------------------------
+5:48:18 PM Thursday, October 8, 2020 : 
+[5:48:18 PM]  :--- API Testing started ----
+[5:48:18 PM]  :Client Passed
+[5:48:18 PM]  :Request Created
+[5:48:18 PM]  :Parameters passed!
+[5:48:19 PM]  :Response validation: Temperature in Kelvin: 300.69
+[5:48:19 PM]  :Response validation: City is: Pune
+[5:48:19 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+GetWeatherMap
+---------------------------------------------
+5:55:14 PM Thursday, October 8, 2020 : 
+[5:55:14 PM]  :--- API Testing started ----
+[5:55:14 PM]  :Client Passed
+[5:55:14 PM]  :Request Created
+[5:55:14 PM]  :Parameters passed!
+[5:55:16 PM]  :Response validation: Temperature in Kelvin: 300.69
+[5:55:16 PM]  :Response validation: City is: Pune
+[5:55:16 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+GetWeatherMap
+---------------------------------------------
+5:56:55 PM Thursday, October 8, 2020 : 
+[5:56:55 PM]  :--- API Testing started ----
+[5:56:55 PM]  :Client Passed
+[5:56:55 PM]  :Request Created
+[5:56:55 PM]  :Parameters passed!
+[5:56:56 PM]  :Response validation: Temperature in Kelvin: 300.69
+[5:56:56 PM]  :Response validation: City is: Pune
+[5:56:56 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+GetWeatherMap
+---------------------------------------------
+6:04:19 PM Thursday, October 8, 2020 : 
+[6:04:19 PM]  :--- API Testing started ----
+[6:04:19 PM]  :Client Passed
+[6:04:19 PM]  :Request Created
+[6:04:19 PM]  :Parameters passed!
+[6:04:19 PM]  :Response validation: Temperature in Kelvin: 300.69
+[6:04:19 PM]  :Response validation: City is: Pune
+[6:04:19 PM]  :Response Recorded: temp in degrees celcius is: 27.45001
+GetWeatherMap
+---------------------------------------------
+6:08:23 PM Thursday, October 8, 2020 : 
+[6:08:23 PM]  :--- API Testing started ----
+[6:08:23 PM]  :Client Passed
+[6:08:23 PM]  :Request Created
+[6:08:23 PM]  :Parameters passed!
+[6:08:24 PM]  :Response validation: Temperature in Kelvin: 298.7
+[6:08:24 PM]  :Response validation: City is: Pune
+[6:08:24 PM]  :Response Recorded: temp in degrees celcius is: 24.85
+GetWeatherMap
+---------------------------------------------
+6:26:55 PM Thursday, October 8, 2020 : 
+[6:26:55 PM]  :--- API Testing started ----
+[6:26:55 PM]  :Client Passed
+[6:26:55 PM]  :Request Created
+[6:26:55 PM]  :Parameters passed!
+[6:26:56 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:26:56 PM]  :Response validation: City is: Mumbai
+[6:26:56 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+6:32:20 PM Thursday, October 8, 2020 : 
+[6:32:20 PM]  :--- API Testing started ----
+[6:32:20 PM]  :Client Passed
+[6:32:20 PM]  :Request Created
+[6:32:20 PM]  :Parameters passed!
+[6:32:21 PM]  :Response validation: Temperature in Kelvin: 302.15
+[6:32:21 PM]  :Response validation: City is: Patna
+[6:32:21 PM]  :Response Recorded: temp in degrees celcius is: 28.95001
+GetWeatherMap
+---------------------------------------------
+6:33:03 PM Thursday, October 8, 2020 : 
+[6:33:03 PM]  :--- API Testing started ----
+[6:33:03 PM]  :Client Passed
+[6:33:03 PM]  :Request Created
+[6:33:03 PM]  :Parameters passed!
+[6:33:04 PM]  :Response validation: Temperature in Kelvin: 302.15
+[6:33:04 PM]  :Response validation: City is: Patna
+[6:33:04 PM]  :Response Recorded: temp in degrees celcius is: 28.95001
+GetWeatherMap
+---------------------------------------------
+6:33:48 PM Thursday, October 8, 2020 : 
+[6:33:48 PM]  :--- API Testing started ----
+[6:33:48 PM]  :Client Passed
+[6:33:48 PM]  :Request Created
+[6:33:48 PM]  :Parameters passed!
+[6:33:49 PM]  :Response validation: Temperature in Kelvin: 301.38
+[6:33:49 PM]  :Response validation: City is: Bengaluru
+[6:33:49 PM]  :Response Recorded: temp in degrees celcius is: 28.14999
+GetWeatherMap
+---------------------------------------------
+6:36:22 PM Thursday, October 8, 2020 : 
+[6:36:22 PM]  :--- API Testing started ----
+[6:36:22 PM]  :Client Passed
+[6:36:22 PM]  :Request Created
+[6:36:22 PM]  :Parameters passed!
+[6:36:23 PM]  :Response validation: Temperature in Kelvin: 301.38
+[6:36:23 PM]  :Response validation: City is: Bengaluru
+[6:36:23 PM]  :Response Recorded: temp in degrees celcius is: 28.14999
+GetWeatherMap
+---------------------------------------------
+6:37:14 PM Thursday, October 8, 2020 : 
+[6:37:14 PM]  :--- API Testing started ----
+[6:37:14 PM]  :Client Passed
+[6:37:14 PM]  :Request Created
+[6:37:14 PM]  :Parameters passed!
+[6:37:15 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:37:15 PM]  :Response validation: City is: Mumbai
+[6:37:15 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+6:38:10 PM Thursday, October 8, 2020 : 
+[6:38:10 PM]  :--- API Testing started ----
+[6:38:11 PM]  :Client Passed
+[6:38:11 PM]  :Request Created
+[6:38:11 PM]  :Parameters passed!
+[6:38:11 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:38:11 PM]  :Response validation: City is: Mumbai
+[6:38:11 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+6:39:30 PM Thursday, October 8, 2020 : 
+[6:39:30 PM]  :--- API Testing started ----
+[6:39:30 PM]  :Client Passed
+[6:39:30 PM]  :Request Created
+[6:39:30 PM]  :Parameters passed!
+[6:39:32 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:39:32 PM]  :Response validation: City is: Mumbai
+[6:39:32 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+6:40:49 PM Thursday, October 8, 2020 : 
+[6:40:49 PM]  :--- API Testing started ----
+[6:40:49 PM]  :Client Passed
+[6:40:49 PM]  :Request Created
+[6:40:49 PM]  :Parameters passed!
+[6:40:50 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:40:50 PM]  :Response validation: City is: Mumbai
+[6:40:50 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+6:45:06 PM Thursday, October 8, 2020 : 
+[6:45:06 PM]  :--- API Testing started ----
+[6:45:06 PM]  :Client Passed
+[6:45:06 PM]  :Request Created
+[6:45:06 PM]  :Parameters passed!
+[6:45:07 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:45:07 PM]  :Response validation: City is: Mumbai
+[6:45:07 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+6:47:34 PM Thursday, October 8, 2020 : 
+[6:47:34 PM]  :--- API Testing started ----
+[6:47:34 PM]  :Client Passed
+[6:47:34 PM]  :Request Created
+[6:47:34 PM]  :Parameters passed!
+[6:47:35 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:47:35 PM]  :Response validation: City is: Mumbai
+[6:47:35 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+6:49:51 PM Thursday, October 8, 2020 : 
+[6:49:51 PM]  :--- API Testing started ----
+[6:49:51 PM]  :Client Passed
+[6:49:51 PM]  :Request Created
+[6:49:51 PM]  :Parameters passed!
+[6:49:52 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:49:52 PM]  :Response validation: City is: Mumbai
+[6:49:52 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+[6:49:53 PM]  :Test Case failed because:  The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: True
+  But was:  False
+
+GetWeatherMap
+---------------------------------------------
+6:53:27 PM Thursday, October 8, 2020 : 
+[6:53:27 PM]  :--- API Testing started ----
+[6:53:27 PM]  :Client Passed
+[6:53:27 PM]  :Request Created
+[6:53:27 PM]  :Parameters passed!
+[6:53:28 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:53:28 PM]  :Response validation: City is: Mumbai
+[6:53:28 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+[6:53:29 PM]  :Test Case failed because:  The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: True
+  But was:  False
+
+[6:53:29 PM]  :Test Case failed because: Multiple failures or warnings in test:
+  1)   The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: True
+  But was:  False
+
+  2)   The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: True
+  But was:  False
+
+
+GetWeatherMap
+---------------------------------------------
+6:54:56 PM Thursday, October 8, 2020 : 
+[6:54:56 PM]  :--- API Testing started ----
+[6:54:56 PM]  :Client Passed
+[6:54:56 PM]  :Request Created
+[6:54:56 PM]  :Parameters passed!
+[6:54:57 PM]  :Response validation: Temperature in Kelvin: 303.15
+[6:54:57 PM]  :Response validation: City is: Mumbai
+[6:54:57 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+[6:54:58 PM]  :Test Case failed because:  The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: null
+  But was:  False
+
+GetWeatherMap
+---------------------------------------------
+6:55:48 PM Thursday, October 8, 2020 : 
+[6:55:48 PM]  :--- API Testing started ----
+[6:55:48 PM]  :Client Passed
+[6:55:48 PM]  :Request Created
+[6:55:48 PM]  :Parameters passed!
+[6:55:49 PM]  :Response validation: Temperature in Kelvin: 301.37
+[6:55:49 PM]  :Response validation: City is: Bengaluru
+[6:55:49 PM]  :Response Recorded: temp in degrees celcius is: 28.14999
+GetWeatherMap
+---------------------------------------------
+6:57:09 PM Thursday, October 8, 2020 : 
+[6:57:09 PM]  :--- API Testing started ----
+[6:57:09 PM]  :Client Passed
+[6:57:09 PM]  :Request Created
+[6:57:09 PM]  :Parameters passed!
+[6:57:11 PM]  :Response validation: Temperature in Kelvin: 301.37
+[6:57:11 PM]  :Response validation: City is: Bengaluru
+[6:57:11 PM]  :Response Recorded: temp in degrees celcius is: 28.14999
+GetWeatherMap
+---------------------------------------------
+6:59:49 PM Thursday, October 8, 2020 : 
+[6:59:49 PM]  :--- API Testing started ----
+[6:59:49 PM]  :Client Passed
+[6:59:49 PM]  :Request Created
+[6:59:49 PM]  :Parameters passed!
+[6:59:50 PM]  :Response validation: Temperature in Kelvin: 301.37
+[6:59:50 PM]  :Response validation: City is: Bengaluru
+[6:59:50 PM]  :Response Recorded: temp in degrees celcius is: 28.14999
+GetWeatherMap
+---------------------------------------------
+7:00:40 PM Thursday, October 8, 2020 : 
+[7:00:40 PM]  :--- API Testing started ----
+[7:00:40 PM]  :Client Passed
+[7:00:40 PM]  :Request Created
+[7:00:40 PM]  :Parameters passed!
+[7:00:41 PM]  :Response validation: Temperature in Kelvin: 303.15
+[7:00:41 PM]  :Response validation: City is: Mumbai
+[7:00:41 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+[7:00:42 PM]  :Test Case failed because:   The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: null
+  But was:  False
+
+GetWeatherMap
+---------------------------------------------
+7:03:15 PM Thursday, October 8, 2020 : 
+[7:03:15 PM]  :--- API Testing started ----
+[7:03:15 PM]  :Client Passed
+[7:03:15 PM]  :Request Created
+[7:03:15 PM]  :Parameters passed!
+[7:03:16 PM]  :Response validation: Temperature in Kelvin: 303.15
+[7:03:16 PM]  :Response validation: City is: Mumbai
+[7:03:16 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+[7:03:17 PM]  :Test Case failed because:   The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: True
+  But was:  False
+
+GetWeatherMap
+---------------------------------------------
+7:07:28 PM Thursday, October 8, 2020 : 
+[7:07:28 PM]  :--- API Testing started ----
+[7:07:28 PM]  :Client Passed
+[7:07:28 PM]  :Request Created
+[7:07:28 PM]  :Parameters passed!
+[7:07:29 PM]  :Response validation: Temperature in Kelvin: 303.15
+[7:07:29 PM]  :Response validation: City is: Mumbai
+[7:07:29 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+[7:07:30 PM]  :Test Case failed because: The temperatures do not match. Their difference is beyond the variance allowed
+GetWeatherMap
+---------------------------------------------
+7:08:35 PM Thursday, October 8, 2020 : 
+[7:08:35 PM]  :--- API Testing started ----
+[7:08:35 PM]  :Client Passed
+[7:08:35 PM]  :Request Created
+[7:08:35 PM]  :Parameters passed!
+[7:08:37 PM]  :Response validation: Temperature in Kelvin: 303.15
+[7:08:37 PM]  :Response validation: City is: Mumbai
+[7:08:37 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+7:11:05 PM Thursday, October 8, 2020 : 
+[7:11:05 PM]  :--- API Testing started ----
+[7:11:05 PM]  :Client Passed
+[7:11:05 PM]  :Request Created
+[7:11:05 PM]  :Parameters passed!
+[7:11:06 PM]  :Response validation: Temperature in Kelvin: 303.15
+[7:11:06 PM]  :Response validation: City is: Mumbai
+[7:11:06 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+[7:11:07 PM]  :Test Case failed because: The temperatures do not match. Their difference is beyond the variance allowed
+GetWeatherMap
+---------------------------------------------
+7:16:16 PM Thursday, October 8, 2020 : 
+[7:16:16 PM]  :--- API Testing started ----
+[7:16:17 PM]  :Client Passed
+[7:16:17 PM]  :Request Created
+[7:16:17 PM]  :Parameters passed!
+[7:16:18 PM]  :Response validation: Temperature in Kelvin: 303.15
+[7:16:18 PM]  :Response validation: City is: Mumbai
+[7:16:18 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+GetWeatherMap
+---------------------------------------------
+7:17:10 PM Thursday, October 8, 2020 : 
+[7:17:10 PM]  :--- API Testing started ----
+[7:17:10 PM]  :Client Passed
+[7:17:10 PM]  :Request Created
+[7:17:10 PM]  :Parameters passed!
+[7:17:11 PM]  :Response validation: Temperature in Kelvin: 303.15
+[7:17:11 PM]  :Response validation: City is: Mumbai
+[7:17:11 PM]  :Response Recorded: temp in degrees celcius is: 29.95001
+[7:17:12 PM]  :Test Case failed because: The temperatures do not match. Their difference is beyond the variance allowed
+GetWeatherMap
+---------------------------------------------
+7:20:06 PM Thursday, October 8, 2020 : 
+[7:20:06 PM]  :--- API Testing started ----
+[7:20:06 PM]  :Client Passed
+[7:20:06 PM]  :Request Created
+[7:20:06 PM]  :Parameters passed!
+[7:20:07 PM]  :Response validation: Temperature in Kelvin: 298.06
+[7:20:07 PM]  :Response validation: City is: Pune
+[7:20:07 PM]  :Response Recorded: temp in degrees celcius is: 24.85
+[7:20:08 PM]  :Test Case failed because:   The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: True
+  But was:  False
+
+GetWeatherMap
+---------------------------------------------
+7:53:23 PM Thursday, October 8, 2020 : 
+[7:53:23 PM]  :--- API Testing started ----
+[7:53:23 PM]  :Client Passed
+[7:53:23 PM]  :Request Created
+[7:53:23 PM]  :Parameters passed!
+[7:53:24 PM]  :Response validation: Temperature in Kelvin: 298.06
+[7:53:24 PM]  :Response validation: City is: Pune
+[7:53:24 PM]  :Response Recorded: temp in degrees celcius is: 24.85
+[7:53:25 PM]  :Test Case failed because:   The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: True
+  But was:  False
+
+GetWeatherMap
+---------------------------------------------
+3:27:43 AM Tuesday, October 13, 2020 : 
+[3:27:43 AM]  :--- API Testing started ----
+[3:27:43 AM]  :Client Passed
+[3:27:43 AM]  :Request Created
+[3:27:44 AM]  :Response validation: Temperature in Kelvin: 296.08
+[3:27:44 AM]  :Response validation: City is: Pune
+[3:27:44 AM]  :Response Recorded: temp in degrees celcius is: 22.85
+[3:27:45 AM]  :Test Case failed because:   The temperatures do not match. Their difference is beyond the variance allowed
+  Expected: True
+  But was:  False
+

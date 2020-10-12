@@ -1,0 +1,134 @@
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\nunit.engine.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\nunit.engine.api.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\nunit.engine.core.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\WeatherComparator.dll.config
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\WeatherComparator.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\WeatherComparator.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\BoDi.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Bytescout.Spreadsheet.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Gherkin.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\LanguageExt.Core.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\nunit.framework.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\RestSharp.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Stripe.net.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Buffers.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Memory.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.ValueTuple.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Utf8Json.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\WebDriver.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\WebDriver.Support.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\BoDi.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\LanguageExt.Core.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\nunit.framework.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\nunit.framework.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\RestSharp.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Stripe.net.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Stripe.net.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Buffers.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Memory.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.ValueTuple.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\Utf8Json.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\WebDriver.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\WebDriver.Support.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.csproj.CoreCompileInputs.cache
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.csproj.CopyComplete
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.csprojAssemblyReference.cache
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Reactive.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\WeatherComparator\WeatherComparator\bin\Debug\System.Reactive.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.csproj.CoreCompileInputs.cache
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\nunit.engine.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\nunit.engine.api.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\nunit.engine.core.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\WeatherComparator.dll.config
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\WeatherComparator.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\WeatherComparator.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\BoDi.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Bytescout.Spreadsheet.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Gherkin.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\LanguageExt.Core.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\nunit.framework.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\RestSharp.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Stripe.net.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Buffers.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Memory.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Reactive.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.ValueTuple.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Utf8Json.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\WebDriver.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\WebDriver.Support.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\BoDi.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\LanguageExt.Core.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\nunit.framework.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\nunit.framework.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\RestSharp.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Stripe.net.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Stripe.net.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Buffers.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Memory.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Reactive.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\System.ValueTuple.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\Utf8Json.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\WebDriver.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\bin\Debug\WebDriver.Support.xml
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.csproj.CopyComplete
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.dll
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.pdb
+C:\Users\kittua\Desktop\TestVagrantAssignment\Weather Comparator Modified\WeatherComparator\WeatherComparator\obj\Debug\WeatherComparator.csprojAssemblyReference.cache
